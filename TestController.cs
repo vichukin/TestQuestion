@@ -19,5 +19,6 @@ namespace TestQuestion.Controllers
             return Ok();
         }
     }
-    //Trzeba było sprawdzić czy istnieje użytkownik z takim Id
+    //Trzeba było sprawdzić czy istnieje użytkownik z takim Id. 
+    //jeszcze można na początku sprawdzić czy ModelState.IsValid()
 }
